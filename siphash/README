@@ -1,0 +1,12 @@
+========= Summary results of BigCrush =========
+
+ Version:          TestU01 1.2.3
+ Generator:        siphash-2-4
+ Number of statistics:  160
+ Total CPU time:   02:42:02.82
+
+ All tests were passed
+
+
+
+./run  9640.26s user 82.63s system 99% cpu 2:42:17.66 total
